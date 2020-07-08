@@ -70,10 +70,10 @@ subtitle = ""
 
 * PhD Students Alumni
   - Usman Sanwal - PhD Defence on 17.4.20
-  - Mojgan Kamali – PhD Defence on 23.8.19
-  - Petter Sandvik – PhD defence on 13.11.15
-  - Maryam Kamali – PhD defence on 13-9-13
-  - Mats Neovius – PhD defence on 26.\\.12
+  - Mojgan Kamali – PhD Defence on [23.8.19](http://users.abo.fi/lpetre/mojgan%27s%20defence)
+  - Petter Sandvik – PhD defence on [13.11.15](http://users.abo.fi/lpetre/petter%27s%20defence)
+  - Maryam Kamali – PhD defence on [13-9-13](http://users.abo.fi/lpetre/maryam%27s%20defence)
+  - Mats Neovius – PhD defence on [26.\\\.12](http://users.abo.fi/lpetre/mats%27%20defence)
 * MSc students
   - Olav Lillerovde (to graduate in 2020)
   - Henrik Söderberg, (to graduate in 2020)
