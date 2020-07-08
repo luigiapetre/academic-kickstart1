@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly very quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+Via [TUCS](http://tucs.fi/publications/search/?dep=any&ru=any&pubtype=any&selector0=author&search0=Petre%2C+Luigia&selector1=author&search1=&selector2=year&search2=&selector3=title&search3=&selector4=abstract&search4=&order=type&submit=SEARCH)
+Via dblp. Via Google Scholar. Via Research Gate.
+Full list of publications, March 2020.
