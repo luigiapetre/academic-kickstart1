@@ -72,4 +72,4 @@ subtitle = ""
 * Via [Google Scholar](https://scholar.google.com/citations?user=JT_Hst0AAAAJ)
 * Via [Research Gate](https://www.researchgate.net/profile/Luigia_Petre)
 
-* Full list of publications, March 2020
+* [Full list of publications, March 2020](http://users.abo.fi/lpetre/Luigia%20Petre%20publications,%20March%202020.pdf)
