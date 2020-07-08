@@ -67,6 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Via [TUCS](http://tucs.fi/publications/search/?dep=any&ru=any&pubtype=any&selector0=author&search0=Petre%2C+Luigia&selector1=author&search1=&selector2=year&search2=&selector3=title&search3=&selector4=abstract&search4=&order=type&submit=SEARCH)
-Via dblp. Via Google Scholar. Via Research Gate.
-Full list of publications, March 2020.
+* Via [TUCS](http://tucs.fi/publications/search/?dep=any&ru=any&pubtype=any&selector0=author&search0=Petre%2C+Luigia&selector1=author&search1=&selector2=year&search2=&selector3=title&search3=&selector4=abstract&search4=&order=type&submit=SEARCH)
+* Via [dblp](http://dblp.uni-trier.de/pers/hd/p/Petre:Luigia)
+* Via [Google Scholar](https://scholar.google.com/citations?user=JT_Hst0AAAAJ)
+* Via [Research Gate](https://www.researchgate.net/profile/Luigia_Petre)
+
+* Full list of publications, March 2020
